@@ -7,7 +7,7 @@
 var ex3;
 ```
 
-4 You can assign a value to a variable with the assignment operator, =, or an equal sign:
+4: You can assign a value to a variable with the assignment operator, =, or an equal sign:
 
 ``` javascript
 var ex4 = ("value here");
@@ -19,13 +19,13 @@ var ex4 = ("value here");
 var ex4aa = 1 + ex4aa;
 ```
 
-4a: Characters put in between quotations marks are strings. The following is called a "string-literal":
+4a: Characters put in between quotations marks are strings. The following is called a **string-literal**:
 
 ``` javascript
 var ex4a = "text here";
 ```
 
-4b: When you need a literal-quote inside a string, you need to use back-slashes like this:
+4b: When you need a literal-quote inside a string, you need to use **back-slashes** like this:
 
 ``` javascript
 var ex4b = "text \"example\"."
